@@ -1,0 +1,15 @@
+D:\Programming\ENCO\ENCOStudentManager\StudentManager.Data\bin\Debug\net5.0\StudentManager.Data.deps.json
+D:\Programming\ENCO\ENCOStudentManager\StudentManager.Data\bin\Debug\net5.0\StudentManager.Data.runtimeconfig.json
+D:\Programming\ENCO\ENCOStudentManager\StudentManager.Data\bin\Debug\net5.0\StudentManager.Data.runtimeconfig.dev.json
+D:\Programming\ENCO\ENCOStudentManager\StudentManager.Data\bin\Debug\net5.0\StudentManager.Data.dll
+D:\Programming\ENCO\ENCOStudentManager\StudentManager.Data\bin\Debug\net5.0\ref\StudentManager.Data.dll
+D:\Programming\ENCO\ENCOStudentManager\StudentManager.Data\bin\Debug\net5.0\StudentManager.Data.pdb
+D:\Programming\ENCO\ENCOStudentManager\StudentManager.Data\obj\Debug\net5.0\StudentManager.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\ENCO\ENCOStudentManager\StudentManager.Data\obj\Debug\net5.0\StudentManager.Data.AssemblyInfoInputs.cache
+D:\Programming\ENCO\ENCOStudentManager\StudentManager.Data\obj\Debug\net5.0\StudentManager.Data.AssemblyInfo.cs
+D:\Programming\ENCO\ENCOStudentManager\StudentManager.Data\obj\Debug\net5.0\StudentManager.Data.csproj.CoreCompileInputs.cache
+D:\Programming\ENCO\ENCOStudentManager\StudentManager.Data\obj\Debug\net5.0\StudentManager.Data.dll
+D:\Programming\ENCO\ENCOStudentManager\StudentManager.Data\obj\Debug\net5.0\ref\StudentManager.Data.dll
+D:\Programming\ENCO\ENCOStudentManager\StudentManager.Data\obj\Debug\net5.0\StudentManager.Data.pdb
+D:\Programming\ENCO\ENCOStudentManager\StudentManager.Data\obj\Debug\net5.0\StudentManager.Data.genruntimeconfig.cache
+D:\Programming\ENCO\ENCOStudentManager\StudentManager.Data\obj\Debug\net5.0\StudentManager.Data.csproj.AssemblyReference.cache

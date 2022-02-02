@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StudentManager.Data\StudentManager.Data.csproj" />
+    <ProjectReference Include="..\StudentManager.Logic\StudentManager.Logic.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\Students\ResponseModels\" />
+    <Folder Include="Views\Students\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="5.0.13" />
+  </ItemGroup>
+
+</Project>
